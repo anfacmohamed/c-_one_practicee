@@ -1,0 +1,10 @@
+C:\Users\Mss Xalimo\Desktop\close file\close file\bin\Debug\close file.exe.config
+C:\Users\Mss Xalimo\Desktop\close file\close file\bin\Debug\close file.exe
+C:\Users\Mss Xalimo\Desktop\close file\close file\bin\Debug\close file.pdb
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close file.csproj.AssemblyReference.cache
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close_file.Form1.resources
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close_file.Properties.Resources.resources
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close file.csproj.GenerateResource.cache
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close file.csproj.CoreCompileInputs.cache
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close file.exe
+C:\Users\Mss Xalimo\Desktop\close file\close file\obj\Debug\close file.pdb

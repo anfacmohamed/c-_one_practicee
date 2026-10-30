@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|c:\\users\\mss xalimo\\desktop\\close file\\close file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|solutionrelative:close file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|solutionrelative:close file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC076084-2E7D-494C-82F4-EC24BF3DD97E}|close file\\close file.csproj|solutionrelative:close file\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "close file\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.Designer.cs",
+              "RelativeToolTip": "close file\\Form1.Designer.cs",
+              "ViewState": "AgIAACoAAADg//////8vwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:50:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.cs",
+              "RelativeDocumentMoniker": "close file\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.cs",
+              "RelativeToolTip": "close file\\Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:25:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.cs",
+              "RelativeDocumentMoniker": "close file\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mss Xalimo\\Desktop\\close file\\close file\\Form1.cs [Design]",
+              "RelativeToolTip": "close file\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:25:35.097Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
