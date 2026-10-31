@@ -1,7 +1,5 @@
 # File Operations README
 
-A plain-language guide to common file operations.
-
 ## Read lines
 
 Reading line by line means opening a file and going through it one line at a time. This is the best choice for large files because only one line is held in memory at once. You can also ask for just a single line, such as the first one.
